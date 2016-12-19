@@ -1,5 +1,5 @@
 {
-    "name": "test/slim-y-mongodb",
+    "name": "wqtest/slim-y-mongodb",
     "description": "this is test package",
     "type": "library",
     "license": "test",
