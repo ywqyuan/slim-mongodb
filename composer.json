@@ -1,0 +1,14 @@
+{
+    "name": "test/slim-y-mongodb",
+    "description": "this is test package",
+    "type": "library",
+    "license": "test",
+    "authors": [
+        {
+            "name": "wenqiangyuan",
+            "email": "ywqyuan@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
